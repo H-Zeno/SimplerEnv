@@ -30,4 +30,7 @@ imgui.ini
 
 
 # Checkpoints
-*/checkpoints/
+/checkpoints/
+
+# Results
+/results_simple_random_eval/
